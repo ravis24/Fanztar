@@ -6,7 +6,10 @@
 
 ## Run Locally
 
-Download the project
+Clone the project
+```bash
+  git clone https://github.com/ravis24/Fanztar.git
+```
 
 create a Virtual environment
 ```bash
